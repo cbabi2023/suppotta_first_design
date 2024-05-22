@@ -11,9 +11,9 @@
   
   <img src="./readme-images/project-logo.png" />
 
-  <h2 align="center">Solutry - IT agency website</h2>
+  <h2 align="center">Suppotta IT website</h2>
 
-  Solutry is fully responsive IT agency website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
+  Suppotta is fully responsive IT agency website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
   <a href="https://codewithsadee.github.io/solutry/"><strong>➥ Live Demo</strong></a>
 
